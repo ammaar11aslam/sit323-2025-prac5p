@@ -1,4 +1,4 @@
-# SIT323-2025-Prac4C: Enhanced Calculator Microservice
+# SIT323-2025-Prac5P: Enhanced Calculator Microservice
 
 ## Overview
 
@@ -17,7 +17,7 @@ It also includes improved error handling for invalid input scenarios and has now
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ammaar11aslam/sit323-2025-prac4c
+git clone https://github.com/ammaar11aslam/sit323-2025-prac5p
 cd sit323-2025-prac4c
 ```
 
